@@ -1,9 +1,11 @@
 $box-padding: 8px !default;
 $box-bg: red !default;
 $box-color: cyan !default;
+$box-border-color: gold !default;
 
 .box {
 	padding: $box-padding;
 	background: $box-bg;
 	color: $box-color;
+	border 5px solid $box-border-color;
 }
