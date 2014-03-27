@@ -1,0 +1,12 @@
+{
+  "name": "bower-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bbc-sport/bower-test",
+  "authors": [
+    "Andrew Jones <ajones782@gmail.com>"
+  ],
+  "description": "whatever",
+  "main": "test.scss",
+  "license": "MIT",
+  "private": true
+}
