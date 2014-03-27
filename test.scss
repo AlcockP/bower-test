@@ -1,0 +1,9 @@
+$box-padding: 8px !default;
+$box-bg: red !default;
+$box-color: cyan !default;
+
+.box {
+	padding: $box-padding;
+	background: $box-bg;
+	color: $box-color;
+}
